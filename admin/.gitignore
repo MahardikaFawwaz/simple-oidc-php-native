@@ -1,0 +1,7 @@
+# File konfigurasi yang sensitif atau lokal
+db.php
+config/*.php
+
+# Cache dan log (jika ada)
+/cache/
+*.log
